@@ -10,4 +10,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma)
 
 
-Follow Me
+### Follow Me
+![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)(https://www.instagram.com/torrtiee/)
+![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)(https://t.me/torrtiee/)
