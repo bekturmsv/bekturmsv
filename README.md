@@ -1,6 +1,6 @@
 ![Header](https://github.com/Bektur211/Bektur211/blob/main/assets/feitan.gif)
 
-About me
+## I am an aspiring programmer, ready to conquer the heights
 
 Languages and Tools
 
