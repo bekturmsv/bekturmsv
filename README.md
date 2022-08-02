@@ -11,5 +11,5 @@
 
 
 ### Follow Me
-![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)(https://www.instagram.com/torrtiee/)
-![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)(https://t.me/torrtiee/)
+![[Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/torrtiee/)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/torrtiee/)
