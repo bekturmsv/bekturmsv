@@ -1,4 +1,4 @@
-![Header](https://github.com/Bektur211/Bektur211/blob/main/assets/haikyuu-karasuno-high-team-podn3dt3gy00iq2i.gif)
+![Header](https://github.com/Bektur211/Bektur211/blob/main/assets/8Uk7.gif)
 
 ## I am an aspiring programmer, ready to conquer the heights
 
