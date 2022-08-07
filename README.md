@@ -22,13 +22,11 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BekturMaasaliev&repo=Post-Reader-App&theme=dark) -->
 
 
-<br> 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5&theme=dark) 
 
 
-<br>
 
 
 ### Follow Me
