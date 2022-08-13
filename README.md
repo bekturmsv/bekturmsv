@@ -1,6 +1,6 @@
 ![Header](https://github.com/Bektur211/Bektur211/blob/main/assets/8Uk7.gif)
 
-## I am an aspiring programmer, ready to conquer the heights. And I'm always open to making new friends.
+## I am an aspiring programmer, ready to conquer the heights. And I'm always open for making new friends.
 
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
