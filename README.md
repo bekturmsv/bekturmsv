@@ -1,8 +1,11 @@
 ![Header](https://github.com/Bektur211/Bektur211/blob/main/assets/8Uk7.gif)
 
-## I am an aspiring programmer, ready to conquer the heights. And I'm always open for making new friends.
+## ***I am an aspiring programmer, ready to conquer the heights. And I'm always open to making new friends.***
 
-### Languages and Tools
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Web+informatics+student)]
+
+# Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react)
 ![MySql](https://img.shields.io/badge/-MySql-090909?style=for-the-badge&logo=mysql&logoColor=006488)
@@ -11,10 +14,13 @@
 ![TypeScript](https://img.shields.io/badge/-Typescript-090909?style=for-the-badge&logo=typescript)
 
 
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BekturMaasaliev&theme=dark)]
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BekturMaasaliev&show_icons=true&theme=dark)
+
+Data on commits per day:<br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BekturMaasaliev&theme=github_dark)
 
 <br>
 
@@ -25,6 +31,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5&theme=dark) 
+
 
 
 
