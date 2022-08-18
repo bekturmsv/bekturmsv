@@ -2,8 +2,9 @@
 
 ## ***I am an aspiring programmer, ready to conquer the heights. And I'm always open to making new friends.***
 
+<br>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Web+informatics+student)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Web+informatics+student)
 
 # Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=javascript)
