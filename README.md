@@ -20,9 +20,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BekturMaasaliev&show_icons=true&theme=dark)
 
-Data on commits per day:<br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BekturMaasaliev&theme=github_dark)
-
 <br>
 
 <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BekturMaasaliev&repo=Online_Store&theme=dark)
