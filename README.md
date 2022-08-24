@@ -1,4 +1,5 @@
-![Header](https://github.com/BekturMaasaliev/BekturMaasaliev/blob/main/assets/animation.gif.mp4)
+<!-- ![Header](https://github.com/BekturMaasaliev/BekturMaasaliev/blob/main/assets/animation.gif.mp4) -->
+<!-- [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/BekturMaasaliev/BekturMaasaliev/blob/main/assets/animation.gif) -->
 
 ## ***I am an aspiring programmer, ready to conquer the heights. And I'm always open to making new friends.***
 
