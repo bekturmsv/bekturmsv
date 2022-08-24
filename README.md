@@ -1,5 +1,5 @@
 ![Header](https://github.com/BekturMaasaliev/BekturMaasaliev/blob/main/assets/anim.gif)
-![Header](https://github.com/BekturMaasaliev/BekturMaasaliev/blob/main/assets/anim.gif)
+![Header](https://github.com/BekturMaasaliev/BekturMaasaliev/blob/main/assets/anim2.gif)
 
 ## ***I am an aspiring programmer, ready to conquer the heights. And I'm always open to making new friends.***
 
