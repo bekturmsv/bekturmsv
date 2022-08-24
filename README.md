@@ -15,7 +15,7 @@
 ![TypeScript](https://img.shields.io/badge/-Typescript-090909?style=for-the-badge&logo=typescript)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BekturMaasaliev&theme=dark)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BekturMaasaliev&theme=dark)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BekturMaasaliev&show_icons=true&theme=dark)
