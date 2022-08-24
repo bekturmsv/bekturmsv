@@ -1,4 +1,4 @@
-![Header](https://github.com/Bektur211/Bektur211/blob/main/assets/animation.gif.mp4)
+![Header](https://github.com/BekturMaasaliev/BekturMaasaliev/blob/main/assets/animation.gif.mp4)
 
 ## ***I am an aspiring programmer, ready to conquer the heights. And I'm always open to making new friends.***
 
