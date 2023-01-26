@@ -18,7 +18,7 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BekturMaasaliev&theme=dark)
+<!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BekturMaasaliev&theme=dark)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BekturMaasaliev&show_icons=true&theme=dark) -->
@@ -38,5 +38,5 @@
 
 
 ### Follow Me
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/torrtiee/)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/kazzu0/)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/torrtiee/)
