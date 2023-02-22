@@ -1,6 +1,6 @@
 
 
-![Header](https://github.com/BekturMaasaliev/BekturMaasaliev/blob/main/assets/sao.gif)
+<!-- ![Header](https://github.com/BekturMaasaliev/BekturMaasaliev/blob/main/assets/sao.gif) -->
 ![Header](https://github.com/BekturMaasaliev/BekturMaasaliev/blob/main/assets/kirito.gif)
 ![Header](https://github.com/BekturMaasaliev/BekturMaasaliev/blob/main/assets/saitama.gif)
 
