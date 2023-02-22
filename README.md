@@ -45,7 +45,7 @@ I'm an active developer who gets better every day!
 
 <br>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BekturMaasaliev&repo=Web-Blog&theme=dark)
+<!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BekturMaasaliev&repo=Web-Blog&theme=dark) -->
 
 
 
@@ -58,3 +58,4 @@ I'm an active developer who gets better every day!
 ### Follow Me
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/kazzu0/)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/torrtiee/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bektur-maasaliev-885369262/)
