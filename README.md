@@ -1,9 +1,13 @@
 
 
-![Header](https://github.com/BekturMaasaliev/BekturMaasaliev/blob/main/assets/anim.gif)
-![Header](https://github.com/BekturMaasaliev/BekturMaasaliev/blob/main/assets/anim2.gif)
+![Header](https://github.com/BekturMaasaliev/BekturMaasaliev/blob/main/assets/sao.gif)
+![Header](https://github.com/BekturMaasaliev/BekturMaasaliev/blob/main/assets/kirito.gif)
+![Header](https://github.com/BekturMaasaliev/BekturMaasaliev/blob/main/assets/saitama.gif)
 
- ### **I am an aspiring programmer, ready to conquer the heights. And I'm always open to making new friends.**
+ ### *Hello World!*
+
+**My name is Bektur!** <br/>
+**I'm an active developer who gets better every day!**
 
 <br>
 
