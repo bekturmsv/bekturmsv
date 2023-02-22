@@ -6,8 +6,8 @@
 
  ### *Hello World!*
 
-**My name is Bektur!** <br/>
-**I'm an active developer who gets better every day!**
+### ***My name is Bektur!*** <br/>
+### ***I'm an active developer who gets better every day!***
 
 <br>
 
