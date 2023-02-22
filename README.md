@@ -1,13 +1,13 @@
 ![Header](https://github.com/BekturMaasaliev/BekturMaasaliev/blob/main/assets/anim.gif)
 ![Header](https://github.com/BekturMaasaliev/BekturMaasaliev/blob/main/assets/anim2.gif)
 
-## ***I am an aspiring programmer, ready to conquer the heights. And I'm always open to making new friends.***
+ ### ***I am an aspiring programmer, ready to conquer the heights. And I'm always open to making new friends.***
 
 <br>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Web+informatics+student)
 
-# Languages and Tools
+### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -33,9 +33,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BekturMaasaliev&langs_count=5&theme=dark) 
 
+<br/>
 
-
-
+![snake gif](https://github.com/BekturMaasaliev/BekturMaasaliev/blob/output/github-contribution-grid-snake.gif)
 
 ### Follow Me
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/kazzu0/)
