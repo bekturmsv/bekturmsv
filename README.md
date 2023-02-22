@@ -35,7 +35,7 @@
 
 <br/>
 
-![snake gif](https://github.com/BekturMaasaliev/BekturMaasaliev/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/BekturMaasaliev/BekturMaasaliev/blob/output/github-contribution-grid-snake.svg)
 
 ### Follow Me
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/kazzu0/)
