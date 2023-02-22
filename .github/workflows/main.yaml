@@ -30,9 +30,14 @@ jobs:
         id: snake-gif
         with:
           github_user_name: BekturMaasaliev
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
+        
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
