@@ -17,7 +17,7 @@ I'm an active developer who gets better every day!
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Web+informatics+student)
 
-![snake gif](https://github.com/BekturMaasaliev/BekturMaasaliev/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/BekturMaasaliev/BekturMaasaliev/blob/output/github-contribution-grid-snake.svg) -->
 
 
 ### Languages and Tools
