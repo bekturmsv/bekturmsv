@@ -7,7 +7,8 @@
 
 
  ```bash
-A wanderer exploring the infinite possibilities of code, forever burning with the desire to create and learn.
+A wanderer exploring the infinite possibilities of code,
+forever burning with the desire to create and learn.
  ```
 
 <br>
